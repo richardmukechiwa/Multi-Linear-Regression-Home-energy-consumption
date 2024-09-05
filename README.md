@@ -1,5 +1,7 @@
 # Multi Linear Regression : Home Energy Consumption Prediction
 
+https://github.com/richardmukechiwa/Multi-Linear-Regression-Home-energy-consumption/blob/main/Energyconsumption.ipynb
+
 # Overview
 This project aims to predict energy consumption using historical electrical usage data and suggest optimization strategies. By analyzing the provided dataset, I am going to build a regression model to forecast future energy consumption and offer recommendations for energy savings.
 
